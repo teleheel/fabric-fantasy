@@ -1385,11 +1385,6 @@
     "cloak": "azure"
   },
   {
-    "name": "PinkGoosik",
-    "uuid": "59abdc87-d23e-4877-beaf-a7bb84b15697",
-    "cloak": "azure"
-  },
-  {
     "name": "6cpsboi",
     "uuid": "21d4b6b5-00ac-4ca5-a53e-255a66265f4a",
     "cloak": "golden"
@@ -1743,5 +1738,20 @@
     "name": "_VolvTwo",
     "uuid": "247ba2a4-ba0e-49b9-a3ca-c6c85db7f37d",
     "cloak": "non-binary"
+  },
+  {
+    "name": "DrZeitgy",
+    "uuid": "c2b4c694-3e63-481a-9d59-5450182fb1c0",
+    "cloak": "cosmic"
+  },
+  {
+    "name": "PinkGoosik",
+    "uuid": "59abdc87-d23e-4877-beaf-a7bb84b15697",
+    "cloak": "crimson"
+  },
+  {
+    "name": "Fredzorg",
+    "uuid": "d3c4cad0-47eb-4536-8589-9eda4132227e",
+    "cloak": "cosmic"
   }
 ]

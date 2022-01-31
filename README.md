@@ -98,6 +98,8 @@ This is the client version of the modpack.
 
 ### Animations
 - [Eating Animations](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric)
+- [First-person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model)
+- [Wavey Capes](https://www.curseforge.com/minecraft/mc-mods/waveycapes)
 
 ### Combat
 - [Perfect Accuracy](https://www.curseforge.com/minecraft/mc-mods/perfect-accuracy)
