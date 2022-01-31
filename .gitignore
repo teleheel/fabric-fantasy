@@ -1,20 +1,20 @@
-# Instance specific, not needed for modpack
-/.fabric
+# Not needed to start server
 /logs
-/saves
-/crash-reports
-/itemscroller
-/ModTranslations
-/screenshots
+/versions
+/world/*
+/.fabric
+/debug
 /not-enough-crashes
 /backup
 
-/config/fabric/indigo-renderer.properties
-/config/indium-renderer.properties
 /config/trade.properties
 /config/crowdin.txt
-realms_persistence.json
-options.txt
-options.amecsapi.txt
-servers.dat
+fabricloader.log
+banned-ips.json
+banned-players.json
+eula.txt
+fabric-server-launcher.properties
+ops.json
+server.properties
 usercache.json
+whitelist.json

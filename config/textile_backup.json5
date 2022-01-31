@@ -36,7 +36,7 @@
 	/* 
 	   Should backups be deleted after being restored?
 	*/
-	"deleteOldBackupAfterRestore": true,
+	"deleteOldBackupAfterRestore": false,
 	/* 
 	   Maximum number of backups to keep. If set to 0 then no backup will be deleted based their amount
 	*/
