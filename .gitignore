@@ -15,6 +15,7 @@
 /config/illuminations.properties
 /config/trade.properties
 /config/crowdin.txt
+patchouli_data.json
 realms_persistence.json
 options.txt
 options.amecsapi.txt
