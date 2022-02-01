@@ -1,0 +1,15 @@
+{
+  "eatDrinkCancellable": true,
+  "drinkFaster": true,
+  "appropriateInvulnerability": true,
+  "stacks": {
+    "potionStack": 16,
+    "milkBucketStack": 16,
+    "snowBallStack": 64
+  },
+  "eggSnowball": {
+    "cooldown": true,
+    "knockbackPlayer": true,
+    "shieldStopKnockack": true
+  }
+}

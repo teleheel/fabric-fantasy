@@ -106,6 +106,7 @@ This is the client version of the modpack.
 ### Combat
 - [Perfect Accuracy](https://www.curseforge.com/minecraft/mc-mods/perfect-accuracy)
 - [Powershot](https://www.curseforge.com/minecraft/mc-mods/powershot)
+- [So I heard you were talking crap about Minecraft's combat?](https://www.curseforge.com/minecraft/mc-mods/sihywtcamc)
 
 ### Transportation
 - [Audaki Cart Engine](https://www.curseforge.com/minecraft/mc-mods/audaki-cart-engine)
@@ -136,6 +137,7 @@ This is the client version of the modpack.
 - [Independent Pets / IndyPets](https://www.curseforge.com/minecraft/mc-mods/indypets)
 - [Farsighted Mobs](https://www.curseforge.com/minecraft/mc-mods/farsighted-mobs)
 - [Chicken Nerf](https://www.curseforge.com/minecraft/mc-mods/chicken-nerf)
+- [So I heard you were talking crap about Minecraft's difficulty?](https://www.curseforge.com/minecraft/mc-mods/sihywtcamd)
 
 ### Mob Additions
 - [Tiny Skeletons](https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-fabric)
