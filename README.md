@@ -126,6 +126,8 @@ This is the client version of the modpack.
 - [Dracomelette](https://www.curseforge.com/minecraft/mc-mods/dracomelette)
 - [XP Storage](https://www.curseforge.com/minecraft/mc-mods/xp-storage)
 - [XP Storage - Trinkets](https://www.curseforge.com/minecraft/mc-mods/xp-storage-trinkets)
+- [Netherite Nuggets](https://www.curseforge.com/minecraft/mc-mods/netherite-nuggets-fabric)
+- [Enchant the Rainbow](https://www.curseforge.com/minecraft/mc-mods/enchant-the-rainbow)
 
 ### Blocks
 - [Architect's Palette](https://www.curseforge.com/minecraft/mc-mods/architects-palette-fabric)

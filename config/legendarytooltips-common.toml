@@ -46,7 +46,7 @@
 		level3_entries = ["^Pigstep", "%Blaze", "fire_charge", "ghast_spawn_egg", "adventurez:stone_golem_heart", "adventurez:stone_golem_arm", "adventurez:spawn_stone_golem"]
 		level4_entries = ["heart_of_the_sea", "nautilus_shell", "trident", "conduit", "elder_guardian_spawn_egg", "guardian_spawn_egg", "dolphin_spawn_egg"]
 		level5_entries = ["bedrock", "^Swamp Jives", "^Red Rose", "^Flight Of The Bumble Llama", "^Mossed Up"]
-		level6_entries = ["nether_star", "%Wither", "biomemakeover:altar", "adventurez:spawn_nightmare", "adventurez:spawn_soul_reaper"]
+		level6_entries = ["nether_star", "%Wither", "biomemakeover:altar", "adventurez:spawn_nightmare", "adventurez:spawn_soul_reaper", "enchant_the_rainbow:nether_star_fragment"]
 		level7_entries = ["%Redstone", "%Rail", "%Minecart", "%Piston", "%Pressure Plate", "%Button", "observer", "dropper", "dispenser", "hopper", "target", "note_block", "daylight_detector", "lever", "lightning_rod", "tripwire_hook", "trapped_chest", "tnt"]
 		level8_entries = ["%Shulker", "%Ender", "%Entwine", "end_crystal", "end_portal_frame", "adventurez:prime_eye", "adventurez:source_stone", "adventurez:shadow_chest_block", "adventurez:spawn_the_eye", "adventurez:spawn_void_shadow"]
 		level9_entries = ["totem_of_undying", "elytra"]
@@ -113,4 +113,3 @@
 		level15_start_color = 4288244002
 		level15_end_color = 4284103197
 		level15_bg_color = 4027976192
-
