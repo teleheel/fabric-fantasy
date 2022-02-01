@@ -29,7 +29,6 @@ This is the server version of the modpack.
 - [AntiShulkerDupe](https://modrinth.com/mod/antishulkerdupe/versions)
 - [Wither Cage Fix](https://www.curseforge.com/minecraft/mc-mods/wither-cage-fix)
 - [Fix Experience Bug](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug)
-- [Cake Chomps](https://www.curseforge.com/minecraft/mc-mods/cake-chomps-fabric)
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 - [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix-fabric)
 - [Boat Fall](https://modrinth.com/mod/boat-fall)
@@ -66,6 +65,9 @@ This is the server version of the modpack.
 - [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs-fabric)
 - [Interdimensional Map Markers](https://www.curseforge.com/minecraft/mc-mods/interdimensional-map-markers)
 - [Discerning Furnace](https://www.curseforge.com/minecraft/mc-mods/discerning-furnace)
+
+### Sound
+- [Cake Chomps](https://www.curseforge.com/minecraft/mc-mods/cake-chomps-fabric)
 
 ### Combat
 - [Perfect Accuracy](https://www.curseforge.com/minecraft/mc-mods/perfect-accuracy)
@@ -138,6 +140,8 @@ This is the server version of the modpack.
 - [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings)
 - [Egg Of Capitalism](https://www.curseforge.com/minecraft/mc-mods/egg-of-capitalism)
 - [Elytra Trinket](https://www.curseforge.com/minecraft/mc-mods/elytra-trinket-fabric)
+- [Trinket Shulker Boxes](https://www.curseforge.com/minecraft/mc-mods/trinket-shulker-boxes-fabric)
+- [Trinket of Undying](https://www.curseforge.com/minecraft/mc-mods/trinket-of-undying-fabric)
 
 ### New Game Mechanics
 - [Trade](https://www.curseforge.com/minecraft/mc-mods/trade)
