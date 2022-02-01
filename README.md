@@ -89,6 +89,7 @@ This is the server version of the modpack.
 ### Blocks
 - [Architect's Palette](https://www.curseforge.com/minecraft/mc-mods/architects-palette-fabric)
 - [Dark Paintings](https://www.curseforge.com/minecraft/mc-mods/dark-paintings)
+- [Plushie Mod](https://www.curseforge.com/minecraft/mc-mods/plushie-mod)
 
 ### Mob Tweaks
 - [Horse Buff](https://modrinth.com/mod/horsebuff)
@@ -124,6 +125,7 @@ This is the server version of the modpack.
 - [Bed Benefits](https://www.curseforge.com/minecraft/mc-mods/bed-benefits-fabric)
 - [Spice of Fabric](https://www.curseforge.com/minecraft/mc-mods/spice-of-fabric)
 - [Gentle Picking](https://www.curseforge.com/minecraft/mc-mods/gentle-picking)
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts-fabric)
 
 ### Worldgen
 - [Snowy Trees](https://modrinth.com/mod/snowy-trees)
