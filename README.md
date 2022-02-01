@@ -102,6 +102,10 @@ This is the client version of the modpack.
 - [First-person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model)
 - [Wavey Capes](https://www.curseforge.com/minecraft/mc-mods/waveycapes)
 - [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
+- [Cool Elytra Roll](https://www.curseforge.com/minecraft/mc-mods/cool-elytra-roll)
+
+### Sound
+- [Loud Leads](https://www.curseforge.com/minecraft/mc-mods/loud-leads)
 
 ### Combat
 - [Perfect Accuracy](https://www.curseforge.com/minecraft/mc-mods/perfect-accuracy)
