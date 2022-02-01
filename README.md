@@ -76,6 +76,7 @@ This is the client version of the modpack.
 - [Advancements Enlarger](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)
 - [Right Click Clear](https://www.curseforge.com/minecraft/mc-mods/right-click-clear)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric)
 
 ### Quality of life
 - [Better Signs & Frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames)
