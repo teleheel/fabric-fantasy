@@ -94,6 +94,7 @@ This is the server version of the modpack.
 - [Dark Paintings](https://www.curseforge.com/minecraft/mc-mods/dark-paintings)
 - [Plushie Mod](https://www.curseforge.com/minecraft/mc-mods/plushie-mod)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts-fabric)
+- [Urns](https://www.curseforge.com/minecraft/mc-mods/urns)
 
 ### Mob Tweaks
 - [Horse Buff](https://modrinth.com/mod/horsebuff)
@@ -101,6 +102,10 @@ This is the server version of the modpack.
 - [Farsighted Mobs](https://www.curseforge.com/minecraft/mc-mods/farsighted-mobs)
 - [Chicken Nerf](https://www.curseforge.com/minecraft/mc-mods/chicken-nerf)
 - [So I heard you were talking crap about Minecraft's difficulty?](https://www.curseforge.com/minecraft/mc-mods/sihywtcamd)
+
+### Mob Additions
+- [Tiny Skeletons](https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-fabric)
+- [Lovely Snails](https://www.curseforge.com/minecraft/mc-mods/lovely-snails)
 
 ### Villagers
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric)
