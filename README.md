@@ -71,6 +71,7 @@ This is the server version of the modpack.
 - [Perfect Accuracy](https://www.curseforge.com/minecraft/mc-mods/perfect-accuracy)
 - [Powershot](https://www.curseforge.com/minecraft/mc-mods/powershot)
 - [So I heard you were talking crap about Minecraft's combat?](https://www.curseforge.com/minecraft/mc-mods/sihywtcamc)
+- [DualWielding](https://www.curseforge.com/minecraft/mc-mods/dualwielding)
 
 ### Transportation
 - [Audaki Cart Engine](https://www.curseforge.com/minecraft/mc-mods/audaki-cart-engine)
@@ -102,6 +103,7 @@ This is the server version of the modpack.
 - [Farsighted Mobs](https://www.curseforge.com/minecraft/mc-mods/farsighted-mobs)
 - [Chicken Nerf](https://www.curseforge.com/minecraft/mc-mods/chicken-nerf)
 - [So I heard you were talking crap about Minecraft's difficulty?](https://www.curseforge.com/minecraft/mc-mods/sihywtcamd)
+- [HerdsPanic](https://www.curseforge.com/minecraft/mc-mods/herdspanic)
 
 ### Mob Additions
 - [Tiny Skeletons](https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-fabric)
