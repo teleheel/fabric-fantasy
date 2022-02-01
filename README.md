@@ -76,6 +76,7 @@ This is the client version of the modpack.
 - [BackSlotAddon](https://www.curseforge.com/minecraft/mc-mods/backslotaddon)
 - [Advancements Enlarger](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)
 - [Right Click Clear](https://www.curseforge.com/minecraft/mc-mods/right-click-clear)
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 
 ### Quality of life
 - [Better Signs & Frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames)
@@ -100,6 +101,7 @@ This is the client version of the modpack.
 - [Eating Animations](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric)
 - [First-person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model)
 - [Wavey Capes](https://www.curseforge.com/minecraft/mc-mods/waveycapes)
+- [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
 
 ### Combat
 - [Perfect Accuracy](https://www.curseforge.com/minecraft/mc-mods/perfect-accuracy)

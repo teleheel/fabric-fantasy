@@ -12,6 +12,7 @@
 /config/fabric/indigo-renderer.properties
 /config/indium-renderer.properties
 /config/iris.properties
+/config/illuminations.properties
 /config/trade.properties
 /config/crowdin.txt
 realms_persistence.json
