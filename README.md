@@ -125,6 +125,8 @@ This is the client version of the modpack.
 
 ### Blocks
 - [Architect's Palette](https://www.curseforge.com/minecraft/mc-mods/architects-palette-fabric)
+- [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
+- [Dark Paintings](https://www.curseforge.com/minecraft/mc-mods/dark-paintings)
 
 ### Mob Tweaks
 - [Horse Buff](https://modrinth.com/mod/horsebuff)
