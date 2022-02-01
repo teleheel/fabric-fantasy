@@ -143,6 +143,7 @@ This is the client version of the modpack.
 ### Mob Additions
 - [Tiny Skeletons](https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-fabric)
 - [Lovely Snails](https://www.curseforge.com/minecraft/mc-mods/lovely-snails)
+- [More Axolotl Variants Mod](https://www.curseforge.com/minecraft/mc-mods/mavm)
 
 ### Villagers
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric)
