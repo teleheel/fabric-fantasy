@@ -131,6 +131,7 @@ This is the client version of the modpack.
 - [Dark Paintings](https://www.curseforge.com/minecraft/mc-mods/dark-paintings)
 - [Plushie Mod](https://www.curseforge.com/minecraft/mc-mods/plushie-mod)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts-fabric)
+- [Urns](https://www.curseforge.com/minecraft/mc-mods/urns)
 
 ### Mob Tweaks
 - [Horse Buff](https://modrinth.com/mod/horsebuff)
@@ -141,6 +142,7 @@ This is the client version of the modpack.
 
 ### Mob Additions
 - [Tiny Skeletons](https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-fabric)
+- [Lovely Snails](https://www.curseforge.com/minecraft/mc-mods/lovely-snails)
 
 ### Villagers
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric)
