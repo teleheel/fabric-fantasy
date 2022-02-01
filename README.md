@@ -148,6 +148,7 @@ This is the client version of the modpack.
 - [More Axolotl Variants Mod](https://www.curseforge.com/minecraft/mc-mods/mavm)
 - [AdventureZ](https://www.curseforge.com/minecraft/mc-mods/adventurez)
 - [VoidZ](https://www.curseforge.com/minecraft/mc-mods/voidz?page=2#comments)
+- [Llamarama](https://www.curseforge.com/minecraft/mc-mods/llamarama)
 
 ### Villagers
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric)
@@ -196,7 +197,6 @@ This is the client version of the modpack.
 - [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 - [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)
 - [Indium](https://github.com/comp500/Indium/releases)
-- [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/)
 - [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric)
 - [Balm](https://www.curseforge.com/minecraft/mc-mods/balm-fabric)
 - [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib-fabric)

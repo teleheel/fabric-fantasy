@@ -45,7 +45,7 @@
 		level2_entries = ["%Lapis", "%Gold", "%Gilded", "%Amethyst", "%Chainmail", "%Potion of", "%Arrow of", "%Sunmetal", "%Cladded", "%Illunite", "@xp_storage_trinkets", "spectral_arrow", "axolotl_bucket", "clock", "spyglass", "compass", "lead", "name_tag", "respawn_anchor", "crying_obsidian", "cake", "bell", "architects_palette:sunstone", "architects_palette:moonstone", "biomemakeover:poltergeist", "biomemakeover:cowboy_hat", "biomemakeover:witch_hat", "!uncommon"]
 		level3_entries = ["^Pigstep", "%Blaze", "fire_charge", "ghast_spawn_egg", "adventurez:stone_golem_heart", "adventurez:stone_golem_arm", "adventurez:spawn_stone_golem"]
 		level4_entries = ["heart_of_the_sea", "nautilus_shell", "trident", "conduit", "elder_guardian_spawn_egg", "guardian_spawn_egg", "dolphin_spawn_egg"]
-		level5_entries = ["bedrock", "^Swamp Jives", "^Red Rose"]
+		level5_entries = ["bedrock", "^Swamp Jives", "^Red Rose", "^Flight Of The Bumble Llama", "^Mossed Up"]
 		level6_entries = ["nether_star", "%Wither", "biomemakeover:altar", "adventurez:spawn_nightmare", "adventurez:spawn_soul_reaper"]
 		level7_entries = ["%Redstone", "%Rail", "%Minecart", "%Piston", "%Pressure Plate", "%Button", "observer", "dropper", "dispenser", "hopper", "target", "note_block", "daylight_detector", "lever", "lightning_rod", "tripwire_hook", "trapped_chest", "tnt"]
 		level8_entries = ["%Shulker", "%Ender", "%Entwine", "end_crystal", "end_portal_frame", "adventurez:prime_eye", "adventurez:source_stone", "adventurez:shadow_chest_block", "adventurez:spawn_the_eye", "adventurez:spawn_void_shadow"]
