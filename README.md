@@ -132,6 +132,7 @@ This is the client version of the modpack.
 - [XP Storage - Trinkets](https://www.curseforge.com/minecraft/mc-mods/xp-storage-trinkets)
 - [Netherite Nuggets](https://www.curseforge.com/minecraft/mc-mods/netherite-nuggets-fabric)
 - [Enchant the Rainbow](https://www.curseforge.com/minecraft/mc-mods/enchant-the-rainbow)
+- [Map Atlases](https://www.curseforge.com/minecraft/mc-mods/map-atlases)
 
 ### Blocks
 - [Architect's Palette](https://www.curseforge.com/minecraft/mc-mods/architects-palette-fabric)
@@ -180,6 +181,7 @@ This is the client version of the modpack.
 - [More Banner Features](https://www.curseforge.com/minecraft/mc-mods/more-banner-features)
 - [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings)
 - [Egg Of Capitalism](https://www.curseforge.com/minecraft/mc-mods/egg-of-capitalism)
+- [Elytra Trinket](https://www.curseforge.com/minecraft/mc-mods/elytra-trinket-fabric)
 
 ### New Game Mechanics
 - [Trade](https://www.curseforge.com/minecraft/mc-mods/trade)
