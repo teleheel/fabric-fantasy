@@ -107,6 +107,8 @@ This is the server version of the modpack.
 - [Tiny Skeletons](https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-fabric)
 - [Lovely Snails](https://www.curseforge.com/minecraft/mc-mods/lovely-snails)
 - [More Axolotl Variants Mod](https://www.curseforge.com/minecraft/mc-mods/mavm)
+- [AdventureZ](https://www.curseforge.com/minecraft/mc-mods/adventurez)
+- [VoidZ](https://www.curseforge.com/minecraft/mc-mods/voidz?page=2#comments)
 
 ### Villagers
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric)
@@ -151,6 +153,7 @@ This is the server version of the modpack.
 - [Balm](https://www.curseforge.com/minecraft/mc-mods/balm-fabric)
 - [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib-fabric)
 - [Forge Config API Port](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric)
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric)
 
 ## Configuration
 ### Fabrication
