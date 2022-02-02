@@ -143,6 +143,7 @@ This is the client version of the modpack.
 - [Plushie Mod](https://www.curseforge.com/minecraft/mc-mods/plushie-mod)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts-fabric)
 - [Urns](https://www.curseforge.com/minecraft/mc-mods/urns)
+- [Twigs](https://www.curseforge.com/minecraft/mc-mods/twigs)
 
 ### Mob Tweaks
 - [Horse Buff](https://modrinth.com/mod/horsebuff)
@@ -159,6 +160,7 @@ This is the client version of the modpack.
 - [AdventureZ](https://www.curseforge.com/minecraft/mc-mods/adventurez)
 - [VoidZ](https://www.curseforge.com/minecraft/mc-mods/voidz?page=2#comments)
 - [Llamarama](https://www.curseforge.com/minecraft/mc-mods/llamarama)
+- [Unvoted & Shelved](https://www.curseforge.com/minecraft/mc-mods/unvoted-shelved?page=3#comments)
 
 ### Villagers
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric)
