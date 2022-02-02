@@ -49,7 +49,7 @@
 		level6_entries = ["nether_star", "%Wither", "biomemakeover:altar", "adventurez:spawn_nightmare", "adventurez:spawn_soul_reaper", "enchant_the_rainbow:nether_star_fragment"]
 		level7_entries = ["%Redstone", "%Rail", "%Minecart", "%Piston", "%Pressure Plate", "%Button", "observer", "dropper", "dispenser", "hopper", "target", "note_block", "daylight_detector", "lever", "lightning_rod", "tripwire_hook", "trapped_chest", "tnt"]
 		level8_entries = ["%Shulker", "%Ender", "%Entwine", "end_crystal", "end_portal_frame", "voidtotem:totem_of_void_undying", "adventurez:prime_eye", "adventurez:source_stone", "adventurez:shadow_chest_block", "adventurez:spawn_the_eye", "adventurez:spawn_void_shadow"]
-		level9_entries = ["totem_of_undying", "elytra", "biomemakeover:enchanted_totem"]
+		level9_entries = ["totem_of_undying", "elytra", "biomemakeover:enchanted_totem", "@icarus"]
 		level10_entries = []
 		level11_entries = []
 		level12_entries = []

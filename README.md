@@ -52,6 +52,7 @@ This is the client version of the modpack.
 - [BadStdOut](https://www.curseforge.com/minecraft/mc-mods/badstdout)
 - [Cyanide](https://www.curseforge.com/minecraft/mc-mods/cyanide-fabric)
 - [Textile Backup](https://www.curseforge.com/minecraft/mc-mods/textile-backup)
+- [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric)
 
 ### UI
 - [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
@@ -76,7 +77,6 @@ This is the client version of the modpack.
 - [Advancements Enlarger](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)
 - [Right Click Clear](https://www.curseforge.com/minecraft/mc-mods/right-click-clear)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
-- [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric)
 
 ### Quality of life
 - [Better Signs & Frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames)
@@ -134,6 +134,8 @@ This is the client version of the modpack.
 - [Netherite Nuggets](https://www.curseforge.com/minecraft/mc-mods/netherite-nuggets-fabric)
 - [Enchant the Rainbow](https://www.curseforge.com/minecraft/mc-mods/enchant-the-rainbow)
 - [Map Atlases](https://www.curseforge.com/minecraft/mc-mods/map-atlases)
+- [Icarus](https://www.curseforge.com/minecraft/mc-mods/icarus-fabric)
+- [Left Hanging](https://www.curseforge.com/minecraft/mc-mods/left-hanging)
 
 ### Blocks
 - [Architect's Palette](https://www.curseforge.com/minecraft/mc-mods/architects-palette-fabric)
