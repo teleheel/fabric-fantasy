@@ -56,6 +56,7 @@ This is the server version of the modpack.
 - [ItemFlexer](https://www.curseforge.com/minecraft/mc-mods/itemflexer)
 - [BackSlot](https://www.curseforge.com/minecraft/mc-mods/backslot)
 - [BackSlotAddon](https://www.curseforge.com/minecraft/mc-mods/backslotaddon)
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 
 ### Quality of life
 - [Better Signs & Frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames)
@@ -94,6 +95,8 @@ This is the server version of the modpack.
 - [Netherite Nuggets](https://www.curseforge.com/minecraft/mc-mods/netherite-nuggets-fabric)
 - [Enchant the Rainbow](https://www.curseforge.com/minecraft/mc-mods/enchant-the-rainbow)
 - [Map Atlases](https://www.curseforge.com/minecraft/mc-mods/map-atlases)
+- [Icarus](https://www.curseforge.com/minecraft/mc-mods/icarus-fabric)
+- [Left Hanging](https://www.curseforge.com/minecraft/mc-mods/left-hanging)
 
 ### Blocks
 - [Architect's Palette](https://www.curseforge.com/minecraft/mc-mods/architects-palette-fabric)
