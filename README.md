@@ -136,6 +136,7 @@ This is the client version of the modpack.
 - [Map Atlases](https://www.curseforge.com/minecraft/mc-mods/map-atlases)
 - [Icarus](https://www.curseforge.com/minecraft/mc-mods/icarus-fabric)
 - [Left Hanging](https://www.curseforge.com/minecraft/mc-mods/left-hanging)
+- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric)
 
 ### Blocks
 - [Architect's Palette](https://www.curseforge.com/minecraft/mc-mods/architects-palette-fabric)
@@ -201,6 +202,7 @@ This is the client version of the modpack.
 - [Snowy Trees](https://modrinth.com/mod/snowy-trees)
 - [Quicksand](https://www.curseforge.com/minecraft/mc-mods/quicksand-fabric)
 - [Biome Makeover](https://www.curseforge.com/minecraft/mc-mods/biome-makeover)
+- [Better Azalea](https://www.curseforge.com/minecraft/mc-mods/better-azalea)
 
 ### Resource Packs
 - [Eclectic Trove (Legendary Tooltips)](https://www.curseforge.com/minecraft/texture-packs/eclectic-trove-legendary-tooltips)

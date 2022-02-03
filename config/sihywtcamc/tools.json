@@ -1,6 +1,6 @@
 {
-  "newAttributesValues": true,
-  "reachAttribute": true,
+  "newAttributesValues": false,
+  "reachAttribute": false,
   "swordSweepingEdge": true,
   "shieldReduceArc": true,
   "shieldReduceProtection": true,
