@@ -51,6 +51,7 @@ This is the server version of the modpack.
 - [What The Hell Is That?](https://www.curseforge.com/minecraft/mc-mods/wthit)
 - [Hwyla Addon Horse Info](https://www.curseforge.com/minecraft/mc-mods/hwyla-addon-horse-info)
 - [Clickable advancements](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements)
+- [Notify](https://www.curseforge.com/minecraft/mc-mods/notify)
 - [Styled Player List](https://www.curseforge.com/minecraft/mc-mods/styled-player-list)
 - [Drogtor the Nickinator](https://www.curseforge.com/minecraft/mc-mods/drogtor)
 - [ItemFlexer](https://www.curseforge.com/minecraft/mc-mods/itemflexer)
@@ -97,6 +98,7 @@ This is the server version of the modpack.
 - [Map Atlases](https://www.curseforge.com/minecraft/mc-mods/map-atlases)
 - [Icarus](https://www.curseforge.com/minecraft/mc-mods/icarus-fabric)
 - [Left Hanging](https://www.curseforge.com/minecraft/mc-mods/left-hanging)
+- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric)
 
 ### Blocks
 - [Architect's Palette](https://www.curseforge.com/minecraft/mc-mods/architects-palette-fabric)
@@ -159,6 +161,7 @@ This is the server version of the modpack.
 - [Snowy Trees](https://modrinth.com/mod/snowy-trees)
 - [Quicksand](https://www.curseforge.com/minecraft/mc-mods/quicksand-fabric)
 - [Biome Makeover](https://www.curseforge.com/minecraft/mc-mods/biome-makeover)
+- [Better Azalea](https://www.curseforge.com/minecraft/mc-mods/better-azalea)
 
 ### Libraries
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
