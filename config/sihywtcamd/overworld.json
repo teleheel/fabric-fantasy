@@ -5,8 +5,8 @@
   },
   "zombies": {
     "zombieTypeBuffed": "ALL",
-    "zombiePlayersAttack": 50,
-    "zombieMobsAttack": 50,
+    "zombiePlayersAttack": 75,
+    "zombieMobsAttack": 80,
     "huskFireProtection": true,
     "drownedTridentSpawn": true,
     "drownedHighVelocity": true
@@ -17,8 +17,14 @@
   },
   "spiders": {
     "babySpiders": true,
+    "webProjectileGoal": true,
     "caveSpiderJockey": true,
     "caveSpiderNaturalSpawn": true
+  },
+  "creepers": {
+    "explosionFatigue": true,
+    "explosionWeakness": true,
+    "chainExplosions": true
   },
   "slimes": {
     "slimeBiggerSize": true,
@@ -32,6 +38,7 @@
     "ravagerInPatrols": true,
     "evokerStopArrows": true,
     "evokerIncreasedHealth": true,
+    "illusionerInMansions": true,
     "witchFleeGoal": true,
     "witchMoreSpawn": true
   },

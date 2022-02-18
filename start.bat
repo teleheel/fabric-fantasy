@@ -1,2 +1,2 @@
-java -Xmx4G -Xms4G -jar fabric-server-launch.jar nogui
+java -Xms4G -Xmx8G -Dlog4j.skipJansi=false -jar fabric-server-launch.jar nogui
 pause

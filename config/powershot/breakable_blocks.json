@@ -22,7 +22,12 @@
         "minecraft:redstone_torch",
         "minecraft:redstone_wall_torch",
         "minecraft:soul_torch",
-        "minecraft:soul_wall_torch"
+        "minecraft:soul_wall_torch",
+        "twigs:paper_lantern",
+        "twigs:allium_paper_lantern",
+        "twigs:blue_orchid_paper_lantern",
+        "twigs:crimson_roots_paper_lantern",
+        "twigs:dandelion_paper_lantern"
       ],
       "tags": "minecraft:candles",
       "power_req": 1.5,
@@ -64,7 +69,6 @@
     {
       "blocks": [
         "minecraft:glass",
-        "minecraft:tinted_glass",
         "minecraft:black_stained_glass",
         "minecraft:blue_stained_glass",
         "minecraft:brown_stained_glass",
@@ -100,7 +104,10 @@
       "power_red": 3.15
     },
     {
-      "blocks": "minecraft:packed_ice",
+      "blocks": [
+        "minecraft:packed_ice",
+        "minecraft:tinted_glass"
+      ],
       "power_req": 4.0,
       "power_red": 4.0
     },

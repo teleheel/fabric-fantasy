@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-java -Xmx2G -jar fabric-server-launch.jar nogui
+java -Xms4G -Xmx8G -Dlog4j.skipJansi=false -jar fabric-server-launch.jar nogui

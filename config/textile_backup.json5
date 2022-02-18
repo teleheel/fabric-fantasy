@@ -7,7 +7,7 @@
 	   Time between automatic backups in seconds
 	   When set to 0 backups will not be performed automatically
 	*/
-	"backupInterval": 0,
+	"backupInterval": 86400,
 	/* 
 	   Delay in seconds between typing-in /backup restore and it actually starting
 	*/
@@ -19,11 +19,11 @@
 	/* 
 	   Should backup be made on server shutdown?
 	*/
-	"shutdownBackup": false,
+	"shutdownBackup": true,
 	/* 
 	   Should world be backed up before restoring a backup?
 	*/
-	"backupOldWorlds": false,
+	"backupOldWorlds": true,
 	/* 
 	   A path to the backup folder
 	*/
@@ -36,7 +36,7 @@
 	/* 
 	   Should backups be deleted after being restored?
 	*/
-	"deleteOldBackupAfterRestore": false,
+	"deleteOldBackupAfterRestore": true,
 	/* 
 	   Maximum number of backups to keep. If set to 0 then no backup will be deleted based their amount
 	*/

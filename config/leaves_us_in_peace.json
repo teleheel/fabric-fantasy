@@ -9,5 +9,5 @@
   },
   "updateDiagonalLeaves": true,
   "doDecayingLeavesEffects": false,
-  "fetchTranslationUpdates": false
+  "fetchTranslationUpdates": true
 }

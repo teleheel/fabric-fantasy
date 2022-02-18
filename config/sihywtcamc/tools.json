@@ -11,7 +11,7 @@
   "shieldCooldown": true,
   "axeCooldown": true,
   "bowLessPower": true,
-  "bowPowerExclusive": true,
+  "bowPowerExclusive": false,
   "crossbowMultishotInclusive": true,
   "flintFireEntities": true,
   "modifiedTools": [
