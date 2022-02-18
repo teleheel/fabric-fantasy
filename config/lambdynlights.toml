@@ -74,6 +74,7 @@ mode = "fancy"
 				lightning_bolt = true
 				wandering_trader = true
 				trader_llama = true
+				goat = true
 
 			[light_sources.settings.entities.unvotedandshelved]
 				glare = true

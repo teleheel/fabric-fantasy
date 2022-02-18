@@ -66,7 +66,7 @@ This is the client version of the modpack.
 - [Trade](https://www.curseforge.com/minecraft/mc-mods/trade)
 
 ### Utilities - Client Only
-- [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)v
+- [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
 - [Item Scroller](https://www.curseforge.com/minecraft/mc-mods/item-scroller)
 - [Auth Me](https://www.curseforge.com/minecraft/mc-mods/auth-me)
 - [Screenshot to Clipboard](https://www.curseforge.com/minecraft/mc-mods/screenshot-to-clipboard-fabric)
@@ -100,6 +100,9 @@ This is the client version of the modpack.
 ### Shaders and Resource Packs support - Client Only
 - [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
 - [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)
+- [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem)
+- [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica)
+- [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)
 
 ### Visual - Client Only
 - [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
