@@ -3,5 +3,5 @@
   "enableReputationPriceAdjustments": true,
   "villagerXpMultiplier": 1.0,
   "enableVillagerLevelupWhileTrading": true,
-  "fetchTranslationUpdates": false
+  "fetchTranslationUpdates": true
 }

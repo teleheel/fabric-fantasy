@@ -20,7 +20,7 @@
 		# Whether item names in tooltips should have a line under them separating them from the rest of the tooltip.
 		name_separator = true
 		# If enabled, tooltip border colors will match item rarity colors (except for custom borders).
-		borders_match_rarity = true
+		borders_match_rarity = false
 		# If enabled, tooltips will display a drop shadow.
 		tooltip_shadow = true
 		# If enabled, items showing a custom border will have a special shine effect when hovered over.
@@ -40,15 +40,15 @@
 	#    Tooltip text - Will match any item with this text anywhere in the tooltip text (besides the name).  Examples: "^Legendary"
 	#    NBT tag - & followed by tag name and optional comparator (=, >, <, or !=) and value, in the format <tag><comparator><value> or just <tag>.  Examples: "&Damage=0", "&Tier>1", "&map!=128", "&Enchantments"
 	[client.definitions]
-		level0_entries = ["%Netherite", "ancient_debris", "beacon", "enchanted_golden_apple", "dragon_egg", "dragon_head", "lodestone", "enchantinginfuser:advanced_enchanting_infuser", "xp_storage:xp_book2", "xp_storage:xp_book3", "adventurez:spawn_dragon", "!epic"]
-		level1_entries = ["%Diamond", "%Emerald", "%Anvil", "%Spawn Egg", "%Bottle o", "enchanted_book", "enchanting_table", "jukebox", "dragon_breath", "turtle_helmet", "saddle", "ghast_tear", "brewing_stand", "enchantinginfuser:enchanting_infuser", "xp_storage:xp_book", "adventurez:piglin_flag_block", "adventurez:warthog_shell_piece", "!rare"]
-		level2_entries = ["%Lapis", "%Gold", "%Gilded", "%Amethyst", "%Chainmail", "%Potion of", "%Arrow of", "%Sunmetal", "%Cladded", "%Illunite", "@xp_storage_trinkets", "spectral_arrow", "axolotl_bucket", "clock", "spyglass", "compass", "lead", "name_tag", "respawn_anchor", "crying_obsidian", "cake", "bell", "architects_palette:sunstone", "architects_palette:moonstone", "biomemakeover:poltergeist", "biomemakeover:cowboy_hat", "biomemakeover:witch_hat", "!uncommon"]
+		level0_entries = ["%Netherite", "%Shepherd's", "%Honey Glazed", "%Stuffed Pumpkin", "%Roast Chicken", "ancient_debris", "beacon", "enchanted_golden_apple", "dragon_egg", "dragon_head", "lodestone", "enchantinginfuser:advanced_enchanting_infuser", "xp_storage:xp_book2", "xp_storage:xp_book3", "adventurez:spawn_dragon", "farmersdelight:beef_stew", "farmersdelight:pumpkin_soup", "farmersdelight:noodle_soup", "farmersdelight:baked_cod_stew", "farmersdelight:pasta_with_mutton_chop", "farmersdelight:roasted_mutton_chops", "farmersdelight:grilled_salmon", "farmersdelight:squid_ink_pasta", "farmersdelight:vegetable_noodles", "farmersdelight:pasta_with_meatballs", "!epic"]
+		level1_entries = ["%Diamond", "%Emerald", "%Anvil", "%Spawn Egg", "%Bottle o'", "enchanted_book", "enchanting_table", "jukebox", "dragon_breath", "turtle_helmet", "saddle", "ghast_tear", "brewing_stand", "golden_carrot", "enchantinginfuser:enchanting_infuser", "xp_storage:xp_book", "adventurez:piglin_flag_block", "adventurez:warthog_shell_piece", "farmersdelight:bacon_sandwich", "farmersdelight:mutton_wrap", "farmersdelight:ratatouille", "farmersdelight:hamburger", "farmersdelight:fried_rice", "farmersdelight:steak_and_potatoes", "farmersdelight:fish_stew", "farmersdelight:vegetable_soup", "farmersdelight:chicken_soup", "farmersdelight:chicken_sandwich", "!rare"]
+		level2_entries = ["%Lapis", "%Gold", "%Amethyst", "%Chainmail", "%Potion of", "%Arrow of", "%Cake", "%Pie", "%Cheesecake", "%Cladded", "%Illunite", "@xp_storage_trinkets", "glistering_melon_slice", "phantom_membrane", "rabbit_foot", "magma_cream", "spectral_arrow", "axolotl_bucket", "clock", "spyglass", "compass", "lead", "name_tag", "respawn_anchor", "crying_obsidian", "cake", "bell", "cooked_beef", "cooked_salmon", "cooked_porkchop", "cooked_mutton", "rabbit_stew", "architects_palette:sunstone", "architects_palette:moonstone", "biomemakeover:poltergeist", "biomemakeover:cowboy_hat", "biomemakeover:witch_hat", "biomemakeover:cooked_glowfish", "adventurez:gilded_stone", "adventurez:cooked_warthog_meat", "adventurez:cooked_rhino_meat", "adventurez:cooked_mammoth_meat", "adventurez:cooked_venison", "farmersdelight:mixed_salad", "farmersdelight:fruit_salad", "farmersdelight:melon_popsicle", "farmersdelight:hot_cocoa", "farmersdelight:smoked_ham", "farmersdelight:barbecue_stick", "farmersdelight:dumplings", "farmersdelight:cooked_rice", "farmersdelight:stuffed_potato", "farmersdelight:egg_sandwich", "!uncommon"]
 		level3_entries = ["^Pigstep", "%Blaze", "fire_charge", "ghast_spawn_egg", "adventurez:stone_golem_heart", "adventurez:stone_golem_arm", "adventurez:spawn_stone_golem"]
 		level4_entries = ["heart_of_the_sea", "nautilus_shell", "trident", "conduit", "elder_guardian_spawn_egg", "guardian_spawn_egg", "dolphin_spawn_egg"]
 		level5_entries = ["bedrock", "^Swamp Jives", "^Red Rose", "^Flight Of The Bumble Llama", "^Mossed Up"]
-		level6_entries = ["nether_star", "%Wither", "biomemakeover:altar", "adventurez:spawn_nightmare", "adventurez:spawn_soul_reaper", "enchant_the_rainbow:nether_star_fragment"]
-		level7_entries = ["%Redstone", "%Rail", "%Minecart", "%Piston", "%Pressure Plate", "%Button", "observer", "dropper", "dispenser", "hopper", "target", "note_block", "daylight_detector", "lever", "lightning_rod", "tripwire_hook", "trapped_chest", "tnt"]
-		level8_entries = ["%Shulker", "%Ender", "%Entwine", "end_crystal", "end_portal_frame", "voidtotem:totem_of_void_undying", "adventurez:prime_eye", "adventurez:source_stone", "adventurez:shadow_chest_block", "adventurez:spawn_the_eye", "adventurez:spawn_void_shadow"]
+		level6_entries = ["%Wither", "nether_star", "biomemakeover:altar", "adventurez:spawn_nightmare", "adventurez:spawn_soul_reaper", "enchant_the_rainbow:nether_star_fragment"]
+		level7_entries = ["%Redstone", "%Rail", "%Minecart", "%Piston", "%Pressure Plate", "%Button", "%Cage Lantern", "observer", "dropper", "dispenser", "hopper", "target", "note_block", "daylight_detector", "lever", "lightning_rod", "tripwire_hook", "trapped_chest", "tnt"]
+		level8_entries = ["%Shulker", "%Ender", "end_crystal", "end_portal_frame", "voidtotem:totem_of_void_undying", "adventurez:prime_eye", "adventurez:source_stone", "adventurez:shadow_chest_block", "adventurez:spawn_the_eye", "adventurez:spawn_void_shadow"]
 		level9_entries = ["totem_of_undying", "elytra", "biomemakeover:enchanted_totem", "@icarus"]
 		level10_entries = []
 		level11_entries = []
@@ -56,6 +56,8 @@
 		level13_entries = []
 		level14_entries = []
 		level15_entries = []
+		# Enter blacklist selectors here using the same format as above. Any items that match these selectors will NOT show a border.
+		blacklist = ["%Gold Ore Brick", "%Diamond Ore Brick", "%Emerald Ore Brick", "%Lapis Ore Brick", "%Redstone Ore Brick", "%Withered Bone", "%Withered Osseous", "%Amethyst Brick", "amethyst_block", "architects_palette:wither_lamp", "farmersdelight:pie_crust"]
 
 	# Set border priorities here.  This should be a list of numbers that correspond to border levels, with numbers coming first being higher priority.  Optionally, -1 can be inserted to indicate relative priority of data and api-defined borders.  If you don't know what that means, don't worry about it.
 	[client.priorities]

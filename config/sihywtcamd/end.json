@@ -1,4 +1,4 @@
 {
-  "endermanBlindness": false,
-  "shulkerBlindness": false
+  "endermanBlindness": true,
+  "shulkerBlindness": true
 }

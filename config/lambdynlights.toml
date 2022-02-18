@@ -1,0 +1,93 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				area_effect_cloud = true
+				armor_stand = true
+				arrow = true
+				axolotl = true
+				bat = true
+				bee = true
+				blaze = true
+				boat = true
+				player = true
+				witch = true
+				villager = true
+				skeleton = true
+				spider = true
+				creeper = true
+				zombie = true
+				cat = true
+				chicken = true
+				chest_minecart = true
+				salmon = true
+				squid = true
+				cow = true
+				fox = true
+				pig = true
+				item = true
+				cod = true
+				tropical_fish = true
+				panda = true
+				rabbit = true
+				glow_squid = true
+				parrot = true
+				sheep = true
+				enderman = true
+				zombie_villager = true
+				husk = true
+				slime = true
+				drowned = true
+				cobweb = true
+				turtle = true
+				guardian = true
+				cave_spider = true
+				llama = true
+				horse = true
+				iron_golem = true
+				donkey = true
+				experience_orb = true
+				potion = true
+				trident = true
+				ravager = true
+				wolf = true
+				phantom = true
+				lightning_bolt = true
+				wandering_trader = true
+				trader_llama = true
+
+			[light_sources.settings.entities.unvotedandshelved]
+				glare = true
+
+			[light_sources.settings.entities.tinyskeletons]
+				baby_skeleton = true
+
+			[light_sources.settings.entities.adventurez]
+				amethyst_golem = true
+				orc = true
+				deer = true
+
+			[light_sources.settings.entities.llamarama]
+				mossy_llama = true
+				caravan_trader = true
+				woolly_llama = true
+

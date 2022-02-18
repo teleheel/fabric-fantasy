@@ -6,11 +6,11 @@
 	// Double click slot to sort inventorys
 	"doubleClickSort": true,
 	// Enable second 'Sort' button in player inv
-	"seperateBtn": true,
+	"seperateBtn": false,
 	// Sorting inv also sorts player inv
 	"sortPlayer": false,
 	// Method of sorting, NAME,CATEGORY,MOD
-	"sortType": "NAME",
+	"sortType": "CATEGORY",
 	// Display Sort Button Tooltip
 	"displayTooltip": true,
 	// Sort Inventory key
